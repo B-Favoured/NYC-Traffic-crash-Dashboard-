@@ -86,7 +86,6 @@ NYC-Traffic-Crash-Analysis/
 ├── README.md
 ├── Dashboard/
 │   ├── NYC_Crash_Dashboard.png
-│   └── NYC_Crash_Report.pdf
 │
 ├── Data/
 │   └── cleaned_data.csv
